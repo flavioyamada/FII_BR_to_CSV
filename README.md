@@ -1,1 +1,1 @@
-# FII_BR_to_CSV
+# Dados de Fundos imobiliários para análise do mercado em CSV
